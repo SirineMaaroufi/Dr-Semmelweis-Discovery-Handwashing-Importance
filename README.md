@@ -1,5 +1,9 @@
 
-#  🧼 Dr. Semmelweis and the Discovery of Handwashing
+#  🧼 Dr. Semmelweis and the Discovery of Handwashing Importance
+
+<p align="center">
+<img src="ignaz_semmelweis_1860.jpeg" alt="drawing" width="300"/>
+</p>
 
 ## ✨ Project Description
 
