@@ -2,7 +2,7 @@
 #  🧼 Dr. Semmelweis and the Discovery of Handwashing Importance
 
 <p align="center">
-<img src="ignaz_semmelweis_1860.jpeg" alt="drawing" width="300"/>
+<img src="Dr_Semmelweis.png" alt="drawing" width="200"/>
 </p>
 
 ## ✨ Project Description
